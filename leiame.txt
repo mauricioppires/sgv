@@ -1,0 +1,15 @@
+
+
+
+    // Sistema:
+    Sistema de Gerenciamento de Visitantes
+
+    // Acesso:
+    usuario: admin
+    senha..: teste
+
+    // Hospedagem
+    https://portelainfo.com.br/
+
+    // Link
+    https://portelainfo.com.br/condominio/
